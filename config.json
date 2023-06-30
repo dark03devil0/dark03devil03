@@ -1,0 +1,245 @@
+{
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "language": "en",
+    "keyActive": "blackdzxxx",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "chatgpt.js"
+    ],
+    "eventDisabled": [],
+    "UPTIME": [
+        "1807.8417735781814.687974191809.775893691814.7388305681813.5990390121816.8985193691821.7298612761810.6136393531810.8686642361810.6501321871814.0352111591818.2434529061811.9975491031812.2636416791811.5299693361810.7830163641818.9351086021809.6976035141811.358975171811.4279838971812.7395346141817.7607043781811.4999460831810.854765271810.7096155061811.7920579121812.6180761951860.1669758081847.9999048341848.8628187641832.0256139291847.2211613051829.3056853431822.0129271823.2455552591817.5393514951865.9017099891820.4160148751815.7345980991815.2000083681815.2072708591818.6320068611810.7356881341816.7872463371813.5948573821811.675429811819.4236184591812.5679247311808.2394925651810.35017951807.8553848481807.5730679621810.2873445431808.23730821810.9922466261809.1316321031809.1665946991810.9468975781809.7446937151811.0475923361808.8868080261810.6041501681811.2158655431818.7838499331877.8507377511852.6007996071851.4560741721828.5843653041828.182597041833.1753663841838.1361777271844.7253513871869.1466367421838.9834492481848.9910164191827.7035745011819.1138727131837.1130002291814.8772546581832.0611030941819.1426376471815.4885115331831.7891214921820.0372617571811.8737613391823.3332108591811.2874930611814.5334625561821.9214771691815.5683210991817.2502702271810.0688006551811.6095060361808.1298809581807.3651932651808.9531914961809.2148877121814.2049654841819.1577561211813.5277485871816.8047807541814.7602417851813.7610586331809.7000102721810.2933085171810.7430459871809.7888137491818.1372816761807.6796214621806.4288028461806.3343697031806.3875093641806.1038848051806.0705470851806.1421963911806.2332205481805.7766487991805.9341228611807.7561927661806.0876702661805.5854129731807.2644339621808.9006177211805.9970923271805.3405821051807.3719258681806.314102951806.1941725551804.0685530231807.169724651807.1826273071807.3007129911813.1672535291806.7541095081807.3118374061806.132662681808.0933272491806.701416661806.11674891810.9048476671806.0489740821805.971486291806.7636481051807.509212321808.5671407061805.691652611806.3537651751807.0023442071805.577083171805.4101094621805.403517561805.2516886441806.5273726261805.5438541791806.1893026691804.042921927"
+    ],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "𝐀𝐊𝐀 𝐁𝐎𝐓🐧",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "100092968814324",
+        ""
+    ],
+    "NDH": [
+        "100092968814324"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "1.2.14",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 2000000
+    },
+    "checktt": {
+        "maxColumn": 300
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "instagram": {
+        "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 55
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 500
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "29be078b8f5239a1202742869f92c25955bdcab3"
+    },
+    "shortlink": {
+        "bitlyAPI": "150ef1bc3af86500796d645c86f56766e4802566"
+    },
+    "soundcloud": {
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "weather": {
+        "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    },
+    "fbcover": {
+        "APIKEY": "tdunguwu"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 120
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 500
+    },
+    "sing": {
+        "API_KEY": "AIzaSyA5Pz9i9DH0OgrgqjuhiTrgv_px07xuym0",
+        "YOUTUBE_API": "AIzaSyA5Pz9i9DH0OgrgqjuhiTrgv_px07xuym0"
+    },
+    "tiktok": {
+        "API_KEY": "mzkFree_XNPP4LYOG9H8VY83GHG",
+        "key": "5zjgfzL4"
+    },
+    "ghép": {
+        "APIKEY": "nhatdepzaivl"
+    },
+    "adminOnly": false,
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "sim": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "lamviec": {
+        "cooldownTime": 1200
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "tikvd": {
+        "API_KEY": "mzkFree_X0IFR3FV0P97U4VL83F"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "ndhOnly": false,
+    "ifb": {
+        "key": "leanhtruong_w2hMntztR06Yc0L8QHGG",
+        "token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "adminPaOnly": true,
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "video2": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "teach": {
+        "APIKEY": ""
+    },
+    "baolixi": {
+        "cooldownTime": 1200000
+    },
+    "boctham2": {
+        "cooldownTime": ""
+    },
+    "banner2": {
+        "APIKEY": "ntkhangGoatBot"
+    },
+    "cavev3": {
+        "cooldownTime": 60
+    },
+    "sing3": {
+        "YOUTUBE_API": "AIzaSyCjp5YPl8C5px85e8lS-dku5x08fKgBpKo"
+    },
+    "sing4": {
+        "YOUTUBE_API": "AIzaSyCKLLk55EafnP___8fMuA0KCaUVW8EPScY",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "sing5": {
+        "YOUTUBE_API": "AIzaSyDPLOND-mAcuv9-j1ayNDdfFh0dwjl6H1U"
+    },
+    "youtube": {
+        "TENOR": "73YIAOY3ACT1",
+        "YOUTUBE_API": "AIzaSyA25_Ne0gD1DeciKIM8PzZBLvQ0MgGRlr0"
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "cavev2": {
+        "cooldownTime": 1200000
+    },
+    "ảnhv2": {
+        "cooldownTime": 1200000
+    },
+    "spadmPaseOnly": true,
+    "taoanh": {
+        "APIKEY": "DUYNGU--SHIRON"
+    },
+    "nhantien": {
+        "cooldownTime": 300000
+    },
+    "working": {
+        "cooldownTime": 320000
+    },
+    "allspadmOnly": false,
+    "checknude": {
+        "maxColumn": 10
+    },
+    "zwar": {
+        "cooldownTime": 1200000
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "anh": {
+        "cooldownTime": 1200000
+    }
+}
