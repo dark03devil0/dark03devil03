@@ -1,0 +1,30 @@
+[
+
+  const chalk = require('chalkercli');
+const rainbow = chalk.rainbow(`
+======================================================
+╏                                                    ╏
+╏                                                    ╏
+╏                  O V  E R                       ╏
+╏                                                    ╏
+╏                                                    ╏
+╏            𝐍𝐀𝐌𝐄 : Thanh Tuấn                      ╏
+╏            𝐁𝐈𝐑𝐓𝐇𝐃𝐀𝐘: 13/12/2009                   ╏
+╏            𝐆𝐈𝐓𝐇𝐔𝐁: Tuan3066                     ╏
+╏            𝐙𝐀𝐋𝐎 : 0862529370                       ╏
+╏            𝐅𝐁 : m.me/100088507428187               ╏
+╏                                                    ╏
+======================================================
+
+◆━━━━━━━━━━━━◆『 O V E R 』◆━━━━━━━━━━━━◆`).stop(); // Don't start the animation
+
+rainbow.render(); // Display the first frame
+
+const frame = rainbow.frame(); // Get the second frame
+console.log(frame);
+});
+
+
+
+
+] 
